@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/jupyter-meets-the-earth-scratch/master)
 [![Build Status](https://travis-ci.org/lheagy/jupyter-meets-the-earth-scratch.svg?branch=master)](https://travis-ci.org/lheagy/jupyter-meets-the-earth-scratch)
 
-Example notebooks that explore using [PySINDy](https://pysindy.readthedocs.io/en/latest/index.html) for the Sparse Identification of Nonlinear Dynamical systems. The review reference we are following is [de Silva et al (2020)](https://arxiv.org/pdf/2004.08424.pdf)
+Example notebooks that explore using [IPywidgets](https://ipywidgets.readthedocs.io/en/latest/) for interactive exploration of data. 
 
 ## Usage
 
